@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Aleksandra</h1>
-<h3 align="center">I’m a full-stack Java+Angular developer living in Kraków, Poland. I'm fond of clouds - I use Azure daily, I'm used to working with AWS and I host my projects on GCP. I consider Vue.js as my favorite framework, though used it only in personal/university projects.</h3>
+<h3 align="center">...or Ola, for short. I’m a full-stack Java+Angular developer living in Kraków, Poland. I'm fond of clouds - I use Azure daily, I'm used to working with AWS and I host my projects on GCP. I consider Vue.js as my favorite framework, though used it only in personal/university projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vakme" alt="vakme" /> </p>
 
