@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vue, Angular, Spring Boot, pandas,**
 
-- ⚡ Fun fact **I'm addicted to memes and coffee**
+- ⚡ Fun fact: **I'm addicted to memes and coffee**
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="30" height="30"/> 
