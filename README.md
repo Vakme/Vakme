@@ -14,8 +14,8 @@
 - ⚡ Fun fact: **I'm addicted to memes and coffee**
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" title="angularjs"  width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" title="angularjs"  width="30" height="30"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3"  width="30" height="30"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5"  width="30" height="30"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" title="java"  width="30" height="30"/> 
