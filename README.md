@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [EndoApps](https://github.com/EndoApps)
 
-- 🌱 I’m currently learning **FastAPI, PWA**
+- 🌱 I’m currently learning **FastAPI, PWA, React Native**
 
 - 📝 I regulary write articles on my blog [PL] [https://basement-code.pl/](https://basement-code.pl/)
 
