@@ -1,9 +1,9 @@
 <h1 align="center">Howdy, I'm Aleksandra</h1>
-<h3 align="center">...or Ola, for short. I’m a full-stack Java+Angular developer living in Kraków, Poland. I also speak Python and Node.js. I'm fond of clouds - I use Azure daily, I'm used to working with AWS and I host my projects on GCP. I consider Vue.js as my favorite framework, though used it only in personal/university projects.</h3>
+<h3 align="center">...or Ola, for short. <br/> I’m a full-stack Java+Angular developer living in Kraków, Poland. <br/> I also speak Python and Node.js. I'm fond of clouds - I use Azure daily, I'm used to working with AWS and I host my projects on GCP. <br/> I consider Vue.js as my favorite framework, though used it only in personal/university projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vakme&label=Profile%20views&color=0e75b6&style=flat" alt="vakme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakme&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="vakme" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakme&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="vakme" /></a> </p>
 
 - 🔭 I’m currently working on [EndoApps](https://github.com/EndoApps)
 
