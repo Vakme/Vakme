@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [EndoApps](https://github.com/EndoApps), [CoW](https://github.com/WitchesOfThePlanes/CompassOfWomanhood)
 
-- 🌱 I’m currently learning **FastAPI, PWA, React Native**
+- 🌱 I’m currently learning **FastAPI, PWA, React Native, Cytoscape**
 
 - 💬 Ask me about **Vue, Angular, React, node.js, pandas**
 
