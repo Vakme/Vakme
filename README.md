@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Aleksandra</h1>
-<h4 align="center">...or Ola, for short. <br/> I’m a senior frontend (Angular/React) developer living in Kraków, Poland. <br/> I also speak Python and Node.js. I'm fond of clouds - I use Azure daily, I'm used to working with AWS and I host my projects on GCP. <br/> I consider Vue.js as my favorite framework.</h3>
+<p align="center">...or Ola, for short. <br/> I’m a senior frontend (Angular/React) developer living in Kraków, Poland. <br/> I also speak Python and Node.js. I'm fond of clouds - I use Azure daily, I'm used to working with AWS and I host my projects on GCP. <br/> I consider Vue.js as my favorite framework.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vakme&label=Profile%20views&color=0e75b6&style=flat" alt="vakme" /> </p>
 
