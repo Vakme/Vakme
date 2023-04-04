@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4 align="left">Languages:</h4>
+<p align="left">Languages:</p>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h4 align="left">Frontend and mobile:</h4>
+<p align="left">Frontend and mobile:</p>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -79,7 +79,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" />
   </a>
 </p>
-<h4 align="left">Backend:</h4>
+<p align="left">Backend:</p>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
@@ -107,7 +107,7 @@
   </a>
 </p>
 
-<h4 align="left">Other:</h4>
+<p align="left">Other:</p>
 <p align="left">
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
