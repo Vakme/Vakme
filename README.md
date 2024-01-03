@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Vue, Angular, React, node.js, pandas**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aleksandra-bielak/](https://www.linkedin.com/in/aleksandra-bielak/)
-
 - ⚡ Fun fact **I'm addicted to memes and coffee**
 
 
